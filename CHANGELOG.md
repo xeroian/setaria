@@ -58,10 +58,10 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Nothing to be seen yet.
 
-### Changed
+### Removed
 - Nothing to be seen yet.
 
-### Removed
+### Changed
 - Nothing to be seen yet.
 
 ### Fixed
